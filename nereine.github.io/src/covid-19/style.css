@@ -1,0 +1,12 @@
+#defindi {
+	color: yellow;
+}
+#serious {
+	padding: 14px;
+	background: #220000;
+}
+.serious {
+	text-align: center;
+	color: red;
+	font-size: x-large;
+}
