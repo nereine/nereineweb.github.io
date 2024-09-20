@@ -14,5 +14,5 @@ jobs:
       dist: ./nereineweb.github.io/dist
       deploy_branch: publish
       wipe_deploy_branch: true
-      cname: www.nereine.com
+      cname: nereine.com
      
