@@ -15,6 +15,15 @@
 	],
 	"sites": [
 		{
+			"sitekey": "nereineweb",
+			"name": "NereineWeb",
+			"url": "https://nereineweb.github.io",
+			"src": "nereineweb.github.io/src",
+			"resource": "nereineweb.github.io/resc",
+			"dist": "nereineweb.github.io/dist",
+			"links": {}
+		},
+		{
 			"sitekey": "jd",
 			"name": "JohnDoe.com",
 			"url": "https://johndoe.com",
