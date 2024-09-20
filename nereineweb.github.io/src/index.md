@@ -3,7 +3,7 @@ Hi, I'm Eine. This website is my fun project. I still have no idea what to do ab
 
 This website is generated using [ssg](https://rgz.ee) and is written in Vim.
 
-It hosts my personal blog, and a Searx meta-search engine instance.
+It hosts my personal blog, and a Searx meta-search engine instance
 
 ## [COVID-19 tracker in TH](/covid-19/)
 ## [Blog posts](/blog/)
