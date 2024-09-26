@@ -6,6 +6,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>"https://nereineweb.github.io"/covid-19/</loc><lastmod>2024-09-26</lastmod><priority>1.0</priority></url>
 <url><loc>"https://nereineweb.github.io"/index.html</loc><lastmod>2024-09-26</lastmod><priority>1.0</priority></url>
+<url><loc>"https://nereineweb.github.io"/blog/2024/</loc><lastmod>2024-09-26</lastmod><priority>1.0</priority></url>
 <url><loc>"https://nereineweb.github.io"/blog/</loc><lastmod>2024-09-26</lastmod><priority>1.0</priority></url>
 <url><loc>"https://nereineweb.github.io"/blog/2021/</loc><lastmod>2024-09-26</lastmod><priority>1.0</priority></url>
 <url><loc>"https://nereineweb.github.io"/blog/2021/nwo/</loc><lastmod>2024-09-26</lastmod><priority>1.0</priority></url>
