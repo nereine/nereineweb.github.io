@@ -9,3 +9,5 @@ It hosts my personal blog, and a Searx meta-search engine instance.
 ## [Blog posts](/blog/)
 ### [2021](/blog/2021/)
 ### [2022](/blog/2022)
+### ...
+### [2024](/blog/2024)
